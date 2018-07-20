@@ -11,7 +11,7 @@ public class DesafioExeApplication {
 
 	@Desafio("Primeiro")
 	public static int seuMetodo(Integer a) {
-		return a + 3;
+		return a + 0;
 	}
 
 }
