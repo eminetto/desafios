@@ -4,7 +4,7 @@ apply plugin: 'application'
 
 group = 'br.com.codenation'
 version = '1.0'
-mainClassName = 'br.com.codenation.desafioexe.DesafioExeApplication'
+mainClassName = 'br.com.codenation.desafioexe.DesafioApplication'
 sourceCompatibility = 1.8
 
 repositories {
@@ -13,7 +13,7 @@ repositories {
 
 task desafio(type: JavaExec) {
   classpath sourceSets.main.runtimeClasspath
-  main = "br.com.codenation.desafioexe.DesafioExeApplication"
+  main = "br.com.codenation.desafioexe.DesafioApplication"
 }
 
 dependencies {
