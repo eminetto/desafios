@@ -1,0 +1,38 @@
+{
+    "name": "Fibonacci",
+    "description": "Faça um método que retorne uma lista com os primeiro números de série de Fibonacci até passar de 350.",
+    "topic": [
+        "Variáveis e métodos",
+        "Operadores matemáticos",
+        "Controle de fluxo",
+        "Listas",
+    ],
+    "slug": "java-0",
+    "test_cmd": [
+        "./gradlew run"
+    ],
+    "submission_files": [
+        "src/main/java/br/com/codenation/desafioexe/DesafioApplication.java"\
+    ],
+    "private_files": [
+        "submit_test.go"
+    ],
+    "submission_cmd": [
+        "./gradlew grade"
+    ],
+    "created_by": [
+        {
+            "name": "Bruno Muehlbauer de Souza",
+            "picture": "https://avatars2.githubusercontent.com/u/10691038?s=460&v=4",
+            "email": "docsbruno@gmail.com",
+            "linkedin": "https://www.linkedin.com/in/bnubruno/",
+            "github": "https://github.com/bnubruno"
+        }
+    ],
+    "content": [
+        {
+            "name": "Gradle Build Tool",
+            "description": "Gradle Installation",
+            "url": "https://gradle.org/install/"
+        }   ]
+}
